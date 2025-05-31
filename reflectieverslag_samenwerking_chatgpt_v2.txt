@@ -1,0 +1,83 @@
+# Reflectieverslag Samenwerking – Pygame Development Project
+
+## 1. Samenwerkingspartner
+Naam : ChatGPT (OpenAI‑taalmodel)
+Rol  : Virtuele programmeercoach & code‑reviewer
+Vorm : Asynchrone tekstchat (zie Appendix A)
+
+--------------------------------------------------------------------
+
+## 2. Projectoverzicht
+Voor het Introductieproject bouwde ik een Blackjack‑spel in Python (Pygame).
+ChatGPT fungeerde als sparringpartner en hielp bij:
+  • verduidelijking van tutorialconcepten
+  • code‑reviews (bijv. ‘hand_active’ vs. ‘reveal_dealer’)
+  • debuggen van variabelen (vraag over ‘game_deck’)
+  • herschrijven van code met uitgebreide inline‑commentaar
+
+Wij chatteten 1‑3× per week (1 apr – 30 mei 2025, sessies van 10‑30 min).
+
+--------------------------------------------------------------------
+
+## 3. Communicatie
+Kanaal  : ChatGPT‑webinterface
+Stijl   : Korte, gerichte vragen → concrete NL‑antwoorden met code
+Tools   : VS Code ↔ ChatGPT copy‑paste
+Issues  : soms te algemeen antwoord – leerde preciezer vragen
+Succes  : Snel itereren, meteen nieuwe vragen stellen binnen dezelfde sessie. Ook is het belangrijke om altijd je volledige codebestand te delen zodat ChatGPT de context van de vraag begrijpt.
+
+
+--------------------------------------------------------------------
+
+## 4. Rollen & verantwoordelijkheden
+
++-------------------------------+-----------------------------+------------------------------+
+| Taak                          | Mijn rol                    | Rol ChatGPT                 |
++-------------------------------+-----------------------------+------------------------------+
+| Game‑logica implementeren     | Code schrijven & testen     | –                            |
+| Conceptuele uitleg (Pygame)   | Gerichte vragen formuleren  | Didactische uitleg           |
+| Code‑review / best‑practices  | Code delen voor feedback    | Verbeterpunten voorstellen   |
+| Debuggen                      | Tests & logs verzamelen     | Hypotheses / oplossingen     |
++-------------------------------+-----------------------------+------------------------------+
+
+--------------------------------------------------------------------
+
+## 5. Teamwork & bijdrage
+ChatGPT leverde kennis en alternatieven; ik implementeerde en testte.
+Zonder mijn input doet het model niets, maar zonder het model
+zou ik veel meer zoektijd kwijt zijn geweest.
+
+--------------------------------------------------------------------
+
+## 6. Geleerde lessen
+1. Specifieke prompts → betere antwoorden.
+2. Iteratief werken loont.
+3. Advies altijd zelf verifiëren (en testen).
+4. Documentatie tussendoor opslaan.
+5. Modelkeuze:
+     – GPT‑4o  : breed, soms onsamenhangend.
+     – OpenAI o3: kernachtig, tabellen & scenario‑analyses.
+   Ik kies voortaan o3 voor complexe logica‑vragen.
+
+--------------------------------------------------------------------
+
+## 7. Professionele communicatie – vooruitblik
+• Context & doel duidelijk vermelden.  
+• Git‑branches voor traceerbaarheid.  
+• Elk gesprek samenvatten & bevestigen.  
+• Chatlogs bewaren als bewijs.
+
+--------------------------------------------------------------------
+
+## 8. Conclusie
+Samenwerking met ChatGPT versnelde mijn leerproces aanzienlijk.
+o3 bleek het meest effectief voor gestructureerde programmeerhulp.
+Ik blijf AI inzetten, aangevuld met peer‑reviews voor robuustheid.
+
+--------------------------------------------------------------------
+
+Appendix A – Chatbewijzen
+ 1. 05 apr 2025 – Discussie ‘hand_active’ vs ‘reveal_dealer’
+ 2. 12 apr 2025 – Inline‑commentaar bij volledige code
+ 3. 28 mei 2025 – Uitleg ‘check_endgame’ & ‘add_score’
+ 4. 15 mei 2025 – Vergelijking GPT‑4o ↔ o3 bij debug‑vraag
