@@ -1,0 +1,17 @@
+*this mail was also sent to the given email adres from lars.vanespen@gmail.com*
+
+Dear Ms Verdeyen,
+
+I hope you are well. I’m writing in the context of the Introductieproject assignment, for which I am developing a Blackjack game in Python with Pygame. The core functionality is now in place, and I would appreciate your expert feedback on one specific element.
+
+The function in question, calculate_score(hand), totals a Blackjack hand while handling multiple aces intelligently—each ace is initially valued at 11, then downgraded to 1 as needed to keep the score at or below 21. I arrived at this solution after following the tutorial, consulting the Python docs, and running extensive random-hand tests to verify common edge cases (e.g., two aces plus a nine). While the function performs correctly in my tests, I am unsure about its overall efficiency and readability, and whether there are more Pythonic patterns I could adopt for clarity and speed. 
+
+Could you kindly review this approach and let me know where I might refine it? In particular, I’m interested in any suggestions on optimizing the ace-adjustment loop or improving variable naming to enhance maintainability.
+
+Thank you very much in advance for your time and guidance. I look forward to your insights.
+
+Kind regards,
+
+Lars Van Espen
+
+lars.vanespen@gmail.com
