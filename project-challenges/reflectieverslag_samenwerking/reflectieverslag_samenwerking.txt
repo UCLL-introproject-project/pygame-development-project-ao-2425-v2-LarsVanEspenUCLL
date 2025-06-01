@@ -3,7 +3,7 @@
 ## 1. Samenwerkingspartner
 Naam : ChatGPT (OpenAI‑taalmodel)
 Rol  : Virtuele programmeercoach & code‑reviewer
-Vorm : Asynchrone tekstchat (zie Appendix A)
+Vorm : Tekstchat
 
 --------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ ChatGPT fungeerde als sparringpartner en hielp bij:
   • debuggen van variabelen (vraag over ‘game_deck’)
   • herschrijven van code met uitgebreide inline‑commentaar
 
-Wij chatteten 1‑3× per week (1 apr – 30 mei 2025, sessies van 10‑30 min).
+Wij chatten 4× per dag (1 apr – 30 mei 2025, sessies van 10‑30 min).
 
 --------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Wij chatteten 1‑3× per week (1 apr – 30 mei 2025, sessies van 10‑30�
 Kanaal  : ChatGPT‑webinterface
 Stijl   : Korte, gerichte vragen → concrete NL‑antwoorden met code
 Tools   : VS Code ↔ ChatGPT copy‑paste
-Issues  : soms te algemeen antwoord – leerde preciezer vragen
+Issues  : soms te algemeen antwoord, en het 4o model begreep mijn vraag niet altijd goed.
 Succes  : Snel itereren, meteen nieuwe vragen stellen binnen dezelfde sessie. Ook is het belangrijke om altijd je volledige codebestand te delen zodat ChatGPT de context van de vraag begrijpt.
 
 
@@ -45,13 +45,14 @@ Succes  : Snel itereren, meteen nieuwe vragen stellen binnen dezelfde sessie. Oo
 ## 5. Teamwork & bijdrage
 ChatGPT leverde kennis en alternatieven; ik implementeerde en testte.
 Zonder mijn input doet het model niets, maar zonder het model
-zou ik veel meer zoektijd kwijt zijn geweest.
+zou ik veel meer zoektijd kwijt zijn geweest. Ook kan ChatGPT zeer goed
+concepten of stukken code uitleggen, wat anders veel tijd zou vergen.
 
 --------------------------------------------------------------------
 
 ## 6. Geleerde lessen
 1. Specifieke prompts → betere antwoorden.
-2. Iteratief werken loont.
+2. Iteratief werkt vaak beter.
 3. Advies altijd zelf verifiëren (en testen).
 4. Documentatie tussendoor opslaan.
 5. Modelkeuze:
@@ -77,7 +78,6 @@ Ik blijf AI inzetten, aangevuld met peer‑reviews voor robuustheid.
 --------------------------------------------------------------------
 
 Appendix A – Chatbewijzen
- 1. 05 apr 2025 – Discussie ‘hand_active’ vs ‘reveal_dealer’
- 2. 12 apr 2025 – Inline‑commentaar bij volledige code
- 3. 28 mei 2025 – Uitleg ‘check_endgame’ & ‘add_score’
- 4. 15 mei 2025 – Vergelijking GPT‑4o ↔ o3 bij debug‑vraag
+Zie foto's in bijlage:
+
+
