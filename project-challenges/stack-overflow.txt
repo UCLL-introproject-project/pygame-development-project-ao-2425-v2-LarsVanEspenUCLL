@@ -39,9 +39,9 @@ if their posts are downvoted too quickly. So it’s important that the site stay
 
 Final Thoughts
 
-Overall, working together in software has clearly improved thanks to Stack Overflow. It brings expert advice into one 
+Overall, working in software has clearly improved thanks to Stack Overflow. It brings expert advice into one 
 easy-to-search place. It also helps people help each other by sharing and fixing answers over time. The git pull vs git 
 fetch thread proves that when people are given tools to vote, edit, and explain things clearly, great shared knowledge is 
-possible. The next challenge is to keep that open, helpful spirit alive as more people join and tools like AI change how we 
+possible. The next challenge is to keep that open, helpful spirit alive as more people join and AI tools change how we 
 learn and teach online.
 
