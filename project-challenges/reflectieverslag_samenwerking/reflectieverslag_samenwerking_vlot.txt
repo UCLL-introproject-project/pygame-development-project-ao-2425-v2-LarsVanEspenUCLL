@@ -1,0 +1,57 @@
+Reflectieverslag – Samenwerking met ChatGPT tijdens Pygame‑project
+====================================================================
+
+Voor mijn Introductieproject bouwde ik een Blackjack‑spel in Python met de Pygame‑bibliotheek. 
+Tijdens dit proces werkte ik samen met ChatGPT, dat fungeerde als virtuele programmeercoach en code‑reviewer. 
+We communiceerden via de ChatGPT‑tekstchat tussen 1 april en 30 mei 2025, gemiddeld vier sessies per dag van 10–30 minuten.
+
+--------------------------------------------------------------------
+SAMENWERKING EN COMMUNICATIE
+--------------------------------------------------------------------
+Ik stelde korte, gerichte vragen en kreeg Nederlandse antwoorden met voorbeeldcode. 
+Door snel te itereren kon ik direct doorvragen binnen dezelfde sessie. 
+Copy‑paste tussen VS Code en ChatGPT bleek erg handig.
+
+Belangrijke les: altijd het volledige codebestand delen zodat ChatGPT de juiste context heeft. 
+Soms waren antwoorden te algemeen; het GPT‑4o‑model begreep mijn vraag niet altijd goed. 
+Daarom stapte ik later over op OpenAI o3, dat kernachtiger en gestructureerder antwoordde.
+
+--------------------------------------------------------------------
+ROLLEN EN VERANTWOORDELIJKHEDEN
+--------------------------------------------------------------------
+| Taak                       | Mijn rol                      | Rol ChatGPT                   |
+|----------------------------|-------------------------------|-------------------------------|
+| Game‑logica implementeren  | Code schrijven & testen       | –                             |
+| Uitleg over Pygame         | Gerichte vragen formuleren    | Didactische uitleg            |
+| Code‑review                | Code aanleveren voor feedback | Verbeterpunten voorstellen    |
+| Debuggen                   | Tests & logs aanleveren       | Hypotheses & oplossingen      |
+
+Ik implementeerde en testte; ChatGPT leverde kennis, suggesties en alternatieven. 
+Zonder mijn input deed het model niets, maar zonder het model zou ik veel meer tijd kwijt zijn geweest aan zoeken en schrijven van bepaalde stukken code.
+
+--------------------------------------------------------------------
+BELANGRIJKSTE LEERPUNTEN
+--------------------------------------------------------------------
+1. Specifieke prompts → betere antwoorden.
+2. Iteratief werken levert het meeste op.
+3. Advies altijd zelf verifiëren en testen.
+4. Documentatie tussendoor opslaan.
+5. Modelkeuze:
+   – GPT‑4o : breed, soms onsamenhangend.  
+   – OpenAI o3: kernachtig en effectief bij logische vragen.  
+   Ik kies voortaan o3 voor complexe programmeerproblemen.
+
+--------------------------------------------------------------------
+VOORUITBLIK – PROFESSIONELE COMMUNICATIE
+--------------------------------------------------------------------
+• Context en doel van elke vraag duidelijk maken.  
+• Werken met Git‑branches voor traceerbaarheid.  
+• Gesprekken samenvatten en bevestigen.  
+• Chatlogs bewaren als naslag en bewijs.  
+
+--------------------------------------------------------------------
+CONCLUSIE
+--------------------------------------------------------------------
+De samenwerking met ChatGPT heeft mijn leerproces aanzienlijk versneld. 
+Vooral het OpenAI o3‑model bleek waardevol voor gestructureerde programmeerhulp. 
+Ik blijf AI inzetten als ondersteuning, vooral voor het uitleggen van code.
